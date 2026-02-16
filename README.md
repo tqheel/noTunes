@@ -106,6 +106,10 @@ defaults delete digital.twisted.noTunes replacement
 
 If you like my work, consider supporting me through [GitHub Sponsors](https://github.com/sponsors/tombonez) 🩷
 
+## Security
+
+A repository security evaluation is available in [SECURITY_REVIEW.md](SECURITY_REVIEW.md).
+
 ## License
 
 The code is available under the [MIT License](https://github.com/tombonez/notunes/blob/master/LICENSE).
